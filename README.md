@@ -1,1 +1,1 @@
-# notion-clone
+# notion-clone in Next.js
