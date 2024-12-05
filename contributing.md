@@ -7,7 +7,7 @@ Thank you for considering contributing to **Notion Clone**! Here's how you can h
 1. Fork the repository.
 2. Clone your forked repository:
    ```bash
-   git clone https://github.com/<your-username>/notion-clone.git
+   git clone https://github.com/Hackerspace2023/notion-clone.git
 3. Create a New Branch
 Use a descriptive branch name that reflects the feature or fix you are working on:
    ```bash
