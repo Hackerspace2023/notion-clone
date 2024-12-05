@@ -20,5 +20,7 @@ Notion Calendar integrates time management with Notion workspaces and databases,
    Run the following command to install all necessary dependencies:
    ```bash
    npm install
+     ```bash
    npm run dev
+     ```bash
    npx convex dev
