@@ -1,6 +1,6 @@
 # Contributing to Notion Clone
 
-Thank you for considering contributing to **My Blog App**! Here's how you can help:
+Thank you for considering contributing to **Notion Clone**! Here's how you can help:
 
 ## How to Contribute
 
