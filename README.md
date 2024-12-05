@@ -16,11 +16,10 @@ Notion Calendar integrates time management with Notion workspaces and databases,
 - Integration: Google Calendar API, Notion API
 
 ## Installation
-1. **Install Dependencies**  
-   Run the following command to install all necessary dependencies:
-   ```bash
-   npm install
-     ```bash
-   npm run dev
-     ```bash
-   npx convex dev
+Run the following commands to set up and host the project locally:
+
+```bash
+npm install
+npm run dev
+npx convex dev
+
