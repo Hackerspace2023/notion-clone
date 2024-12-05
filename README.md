@@ -11,9 +11,9 @@ Notion Calendar integrates time management with Notion workspaces and databases,
 - **Collaboration Tools:** Comment on ongoing projects, participate in discussions, and receive feedback.
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js , Convex
-- Integration: Google Calendar API, Notion API
+- Frontend: Next.js
+- Backend: User's Choice
+- Integration: Google Calendar API.
 
 ## Installation
 Run the following commands to set up and host the project locally:
@@ -21,5 +21,4 @@ Run the following commands to set up and host the project locally:
 ```bash
 npm install
 npm run dev
-npx convex dev
 
